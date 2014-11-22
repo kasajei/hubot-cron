@@ -3,11 +3,11 @@
   "name": "hubot-cron",
   "version": "0.2.6",
   "description": "Cron job messaging for hubot",
-  "homepage": "https://github.com/miyagawa/hubot-cron",
+  "homepage": "https://github.com/kasajei/hubot-cron",
   "main": "./src/index.coffee",
   "repository": {
     "type": "git",
-    "url": "git://github.com/miyagawa/hubot-cron.git"
+    "url": "git://github.com/kasajei/hubot-cron.git"
   },
   "license": "MIT",
   "keywords": [

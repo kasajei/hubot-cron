@@ -10,7 +10,7 @@ Add hubot-cron to your `package.json` dependencies.
 
 ```
 "dependencies": {
-  "hubot-cron": ">= 0.1.0"
+  "hubot-cron": "git://github.com/kasajei/hubot-cron.git"
 }
 ```
 

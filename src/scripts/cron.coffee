@@ -106,6 +106,5 @@ class Job
     [@pattern, @user, @message]
 
   sendMessage: (robot) ->
-    envelope = user: @user, room: @user.room
-    robot.send envelope, @message
+    robot.messageRoom @user.room, @message
 
